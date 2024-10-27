@@ -134,7 +134,6 @@ Este teste automatiza o fluxo de compra de um produto no site Automation Exercis
 
 - **Page Objects**: Utiliza o padrão **Page Object Model** para organizar as interações com as diferentes páginas.
 - **Separação de Responsabilidades**: Cada classe e método tem uma responsabilidade única, seguindo boas práticas de programação.
-- **Massa de Dados**: A criação de usuários é feita via API e reutilizada no teste de UI, garantindo consistência e evitando dependências manuais.
 
 ## Tecnologias Utilizadas
 
